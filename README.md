@@ -1,0 +1,2 @@
+# WinMiner
+Just For Fun 
