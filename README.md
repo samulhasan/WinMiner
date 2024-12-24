@@ -2,8 +2,9 @@
 
 Cara pasang:
 
-1. Download Win64.Zip dan Ekstrak
-3. Copy ke C:/
+1. Download Win64.Zip dan ekstrak
+2. Copy folder hasil ekstraknya (pastikan tidak double folder)
+3. Copy ke C:/ 
 5. Buka folder C:/Win64
 6. Edit start.bat dengan notepad dan atur jumlah core yang akan diguanakan
 5. Copy file startup64
