@@ -12,9 +12,9 @@ Cara pasang:
 
 5.Buka folder C:/Win64
 
-6.Edit start.bat dengan notepad dan atur jumlah core yang akan diguanakan
+6.Edit startup.bat dengan notepad dan atur jumlah core yang akan diguanakan
 
-7.Copy file startup64
+7.Buat Shortcut dari startup.bat lalu copy
 
 8.buka run (WIN + R) search "shell:startup"
 
