@@ -7,7 +7,7 @@ Cara pasang:
 3. Jika ada terdeteksi "Thread Found" oleh windows defender take action "allow"
 4. Copy ke C:/ 
 5. Buka folder C:/Win64
-6. Edit start.bat dengan notepad dan atur jumlah core yang akan diguanakan
+6. Edit start.bat dengan notepad dan atur jumlah core yang akan diguanakan dan ubah .service dengan nama komputer (bebas)
 5. Copy file startup64
 6. buka run (WIN + R) search "shell:startup"
 7. Paste disini
